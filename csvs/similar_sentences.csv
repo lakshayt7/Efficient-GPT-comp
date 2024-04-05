@@ -1,0 +1,1047 @@
+Index Doc1,Index Doc2,Sentence Doc1,Sentence Doc2,Similarity_TF,Similarity_Sem
+0,0,"An FMI should effectively measure, monitor, and manage its liquidity risk; An FMI should maintain sufficient liquid resources in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates that would generate the largest aggregate liquidity obligation for the FMI in extreme but plausible market conditions.","As proposed, Rule 17Ad-22(e)(7) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to
+effectively measure, monitor, and manage the liquidity risk that arises in or is borne by it, by
+meeting, at a minimum, the ten requirements specified in the rule.",0.2710126568267469,0.9999998
+0,1,"An FMI should effectively measure, monitor, and manage its liquidity risk; An FMI should maintain sufficient liquid resources in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates that would generate the largest aggregate liquidity obligation for the FMI in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.6569653116851295,0.8262724
+0,2,"An FMI should effectively measure, monitor, and manage its liquidity risk; An FMI should maintain sufficient liquid resources in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates that would generate the largest aggregate liquidity obligation for the FMI in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(ii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that it holds qualifying liquid resources sufficient to meet the minimum liquidity resource
+requirement in each relevant currency for which the covered clearing agency has payment obligations owed to clearing members.",0.19476695394039883,0.8185465
+0,5,"An FMI should effectively measure, monitor, and manage its liquidity risk; An FMI should maintain sufficient liquid resources in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates that would generate the largest aggregate liquidity obligation for the FMI in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(iv) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it undertakes due diligence to confirm that it has a reasonable basis to believe each of its liquidity
+providers, whether or not such liquidity provider is a clearing member, has sufficient information
+to understand and manage the liquidity provider’s liquidity risks, and the capacity to perform as
+required under its commitments to provide liquidity.",0.2115932092008401,0.7894199
+0,6,"An FMI should effectively measure, monitor, and manage its liquidity risk; An FMI should maintain sufficient liquid resources in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates that would generate the largest aggregate liquidity obligation for the FMI in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(v) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that the covered clearing agency maintains and, on at least an annual basis, tests with each
+liquidity provider, to the extent practicable, its procedures and operational capacity for accessing
+each type of relevant liquidity resource.",0.21324489290730322,0.78006846
+0,7,"An FMI should effectively measure, monitor, and manage its liquidity risk; An FMI should maintain sufficient liquid resources in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates that would generate the largest aggregate liquidity obligation for the FMI in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.3051387054567374,0.8560015
+0,8,"An FMI should effectively measure, monitor, and manage its liquidity risk; An FMI should maintain sufficient liquid resources in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates that would generate the largest aggregate liquidity obligation for the FMI in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(vii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+performing an annual or more frequent conforming model validation of its liquidity risk
+models.",0.15891493930446554,0.74401957
+0,9,"An FMI should effectively measure, monitor, and manage its liquidity risk; An FMI should maintain sufficient liquid resources in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates that would generate the largest aggregate liquidity obligation for the FMI in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(viii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to address
+foreseeable liquidity shortfalls that would not be covered by its liquid resources and seek to
+avoid unwinding, revoking, or delaying the same-day settlement of payment obligations.",0.2535717145137986,0.79547065
+0,10,"An FMI should effectively measure, monitor, and manage its liquidity risk; An FMI should maintain sufficient liquid resources in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates that would generate the largest aggregate liquidity obligation for the FMI in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(ix) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to describe
+its process for replenishing any liquid resources that it may employ during a stress event.",0.13310311347542114,0.88568926
+0,11,"An FMI should effectively measure, monitor, and manage its liquidity risk; An FMI should maintain sufficient liquid resources in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates that would generate the largest aggregate liquidity obligation for the FMI in extreme but plausible market conditions.","Finally, proposed Rule 17Ad-22(e)(7)(x) would require a covered clearing agency to
+establish, implement, maintain and enforce written policies and procedures reasonably designed
+to ensure that it, at least once a year, evaluates the feasibility of maintaining sufficient liquid
+resources at a minimum in all relevant currencies to effect same-day and, where appropriate,
+intraday and multiday settlement of payment obligations with a high degree of confidence under
+a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the
+two participant families that would potentially cause the largest aggregate payment obligation for
+the covered clearing agency in extreme but plausible market conditions if the covered clearing
+agency provides CCP services and is either systemically important in multiple jurisdictions or a
+clearing agency involved in activities with a more complex risk profile",0.5211976916670723,0.5024459
+1,0,"Key consideration 1: An FMI should have a robust framework to manage its liquidity risks from its participants, settlement banks, nostro agents, custodian banks, liquidity providers, and other entities.","As proposed, Rule 17Ad-22(e)(7) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to
+effectively measure, monitor, and manage the liquidity risk that arises in or is borne by it, by
+meeting, at a minimum, the ten requirements specified in the rule.",0.06627958598378828,0.8262724
+1,1,"Key consideration 1: An FMI should have a robust framework to manage its liquidity risks from its participants, settlement banks, nostro agents, custodian banks, liquidity providers, and other entities.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.03385329253506286,1.0000005
+1,2,"Key consideration 1: An FMI should have a robust framework to manage its liquidity risks from its participants, settlement banks, nostro agents, custodian banks, liquidity providers, and other entities.","Proposed Rule 17Ad-22(e)(7)(ii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that it holds qualifying liquid resources sufficient to meet the minimum liquidity resource
+requirement in each relevant currency for which the covered clearing agency has payment obligations owed to clearing members.",0.04324024048614656,0.78733706
+1,5,"Key consideration 1: An FMI should have a robust framework to manage its liquidity risks from its participants, settlement banks, nostro agents, custodian banks, liquidity providers, and other entities.","Proposed Rule 17Ad-22(e)(7)(iv) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it undertakes due diligence to confirm that it has a reasonable basis to believe each of its liquidity
+providers, whether or not such liquidity provider is a clearing member, has sufficient information
+to understand and manage the liquidity provider’s liquidity risks, and the capacity to perform as
+required under its commitments to provide liquidity.",0.1844759811514243,0.7518202
+1,6,"Key consideration 1: An FMI should have a robust framework to manage its liquidity risks from its participants, settlement banks, nostro agents, custodian banks, liquidity providers, and other entities.","Proposed Rule 17Ad-22(e)(7)(v) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that the covered clearing agency maintains and, on at least an annual basis, tests with each
+liquidity provider, to the extent practicable, its procedures and operational capacity for accessing
+each type of relevant liquidity resource.",0.09123530941712901,0.7356505
+1,7,"Key consideration 1: An FMI should have a robust framework to manage its liquidity risks from its participants, settlement banks, nostro agents, custodian banks, liquidity providers, and other entities.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.08764982480016276,0.814262
+1,8,"Key consideration 1: An FMI should have a robust framework to manage its liquidity risks from its participants, settlement banks, nostro agents, custodian banks, liquidity providers, and other entities.","Proposed Rule 17Ad-22(e)(7)(vii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+performing an annual or more frequent conforming model validation of its liquidity risk
+models.",0.07654401785905939,0.8254615
+1,9,"Key consideration 1: An FMI should have a robust framework to manage its liquidity risks from its participants, settlement banks, nostro agents, custodian banks, liquidity providers, and other entities.","Proposed Rule 17Ad-22(e)(7)(viii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to address
+foreseeable liquidity shortfalls that would not be covered by its liquid resources and seek to
+avoid unwinding, revoking, or delaying the same-day settlement of payment obligations.",0.08015184241623453,0.7070147
+1,10,"Key consideration 1: An FMI should have a robust framework to manage its liquidity risks from its participants, settlement banks, nostro agents, custodian banks, liquidity providers, and other entities.","Proposed Rule 17Ad-22(e)(7)(ix) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to describe
+its process for replenishing any liquid resources that it may employ during a stress event.",0.043415835620189025,0.7936796
+2,0,"Key consideration 2: An FMI should have effective operational and analytical tools to identify, measure, and monitor its settlement and funding flows on an ongoing and timely basis, including its use of intraday liquidity.","As proposed, Rule 17Ad-22(e)(7) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to
+effectively measure, monitor, and manage the liquidity risk that arises in or is borne by it, by
+meeting, at a minimum, the ten requirements specified in the rule.",0.14502909029542568,0.8185465
+2,1,"Key consideration 2: An FMI should have effective operational and analytical tools to identify, measure, and monitor its settlement and funding flows on an ongoing and timely basis, including its use of intraday liquidity.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.10476117820634175,0.78733706
+2,2,"Key consideration 2: An FMI should have effective operational and analytical tools to identify, measure, and monitor its settlement and funding flows on an ongoing and timely basis, including its use of intraday liquidity.","Proposed Rule 17Ad-22(e)(7)(ii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that it holds qualifying liquid resources sufficient to meet the minimum liquidity resource
+requirement in each relevant currency for which the covered clearing agency has payment obligations owed to clearing members.",0.06449477852787316,0.9999999
+2,7,"Key consideration 2: An FMI should have effective operational and analytical tools to identify, measure, and monitor its settlement and funding flows on an ongoing and timely basis, including its use of intraday liquidity.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.16600595655204123,0.7438403
+2,8,"Key consideration 2: An FMI should have effective operational and analytical tools to identify, measure, and monitor its settlement and funding flows on an ongoing and timely basis, including its use of intraday liquidity.","Proposed Rule 17Ad-22(e)(7)(vii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+performing an annual or more frequent conforming model validation of its liquidity risk
+models.",0.12124986019262059,0.735092
+2,10,"Key consideration 2: An FMI should have effective operational and analytical tools to identify, measure, and monitor its settlement and funding flows on an ongoing and timely basis, including its use of intraday liquidity.","Proposed Rule 17Ad-22(e)(7)(ix) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to describe
+its process for replenishing any liquid resources that it may employ during a stress event.",0.07731288765099872,0.8318579
+3,1,"Key consideration 3: A payment system or SSS, including one employing a DNS mechanism, should maintain sufficient liquid resources in all relevant currencies to effect same-day settlement, and where appropriate intraday or multiday settlement, of payment obligations with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates that would generate the largest aggregate payment obligation in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.6675144135780007,0.49348453
+3,3,"Key consideration 3: A payment system or SSS, including one employing a DNS mechanism, should maintain sufficient liquid resources in all relevant currencies to effect same-day settlement, and where appropriate intraday or multiday settlement, of payment obligations with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates that would generate the largest aggregate payment obligation in extreme but plausible market conditions.","The Commission also proposed Rule 17Ad-22(a)(15)
+to define “qualifying liquid resources,” which would include three types of assets, in each
+relevant currency:
+• cash held either at the central bank of issue or at creditworthy commercial banks;
+• assets that are readily available and convertible into cash through either:
+o prearranged funding arrangements without material adverse change limitations,
+such as committed lines of credit, foreign exchange swaps, and repurchase
+agreements, or
+o other prearranged funding arrangements determined to be highly reliable even in
+extreme but plausible market conditions by the board of directors of the covered
+clearing agency following a review conducted for this purpose not less than
+annually; and
+• other assets that are readily available and eligible for pledging to (or conducting other
+appropriate forms of transactions with) a relevant central bank, if the covered clearing
+agency has access to routine credit at such central bank.",0.19097596909789946,1.0000001
+3,9,"Key consideration 3: A payment system or SSS, including one employing a DNS mechanism, should maintain sufficient liquid resources in all relevant currencies to effect same-day settlement, and where appropriate intraday or multiday settlement, of payment obligations with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates that would generate the largest aggregate payment obligation in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(viii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to address
+foreseeable liquidity shortfalls that would not be covered by its liquid resources and seek to
+avoid unwinding, revoking, or delaying the same-day settlement of payment obligations.",0.25454072211593715,0.38864633
+3,11,"Key consideration 3: A payment system or SSS, including one employing a DNS mechanism, should maintain sufficient liquid resources in all relevant currencies to effect same-day settlement, and where appropriate intraday or multiday settlement, of payment obligations with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates that would generate the largest aggregate payment obligation in extreme but plausible market conditions.","Finally, proposed Rule 17Ad-22(e)(7)(x) would require a covered clearing agency to
+establish, implement, maintain and enforce written policies and procedures reasonably designed
+to ensure that it, at least once a year, evaluates the feasibility of maintaining sufficient liquid
+resources at a minimum in all relevant currencies to effect same-day and, where appropriate,
+intraday and multiday settlement of payment obligations with a high degree of confidence under
+a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the
+two participant families that would potentially cause the largest aggregate payment obligation for
+the covered clearing agency in extreme but plausible market conditions if the covered clearing
+agency provides CCP services and is either systemically important in multiple jurisdictions or a
+clearing agency involved in activities with a more complex risk profile",0.5152576627355998,0.48224738
+4,1,"Key consideration 4: A CCP should maintain sufficient liquid resources in all relevant currencies to settle securities-related payments, make required variation margin payments, and meet other payment obligations on time with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates thatwould generate the largest aggregate payment obligation to the CCP in extreme but plausible market conditions; In addition, a CCP that is involved in activities with a more-complex risk profile or that is systemically important in multiple jurisdictions should consider maintaining additional liquidity resources sufficient to cover a wider range of potential stress scenarios that should include, but not be limited to, the default of the two participants and their affiliates that would generate the largest aggregate payment obligation to the CCP in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.5237730701320965,0.53723156
+4,4,"Key consideration 4: A CCP should maintain sufficient liquid resources in all relevant currencies to settle securities-related payments, make required variation margin payments, and meet other payment obligations on time with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates thatwould generate the largest aggregate payment obligation to the CCP in extreme but plausible market conditions; In addition, a CCP that is involved in activities with a more-complex risk profile or that is systemically important in multiple jurisdictions should consider maintaining additional liquidity resources sufficient to cover a wider range of potential stress scenarios that should include, but not be limited to, the default of the two participants and their affiliates that would generate the largest aggregate payment obligation to the CCP in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(iii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it uses accounts and services at a Federal Reserve Bank, pursuant to Section 806(a) of the
+Clearing Supervision Act,344 or other relevant central bank, when available and wheredetermined to be practical by the board of directors of the covered clearing agency, to enhance
+its management of liquidity risk.",0.15912765461961115,1.0000005
+4,11,"Key consideration 4: A CCP should maintain sufficient liquid resources in all relevant currencies to settle securities-related payments, make required variation margin payments, and meet other payment obligations on time with a high degree of confidence under a wide range of potential stress scenarios that should include, but not be limited to, the default of the participant and its affiliates thatwould generate the largest aggregate payment obligation to the CCP in extreme but plausible market conditions; In addition, a CCP that is involved in activities with a more-complex risk profile or that is systemically important in multiple jurisdictions should consider maintaining additional liquidity resources sufficient to cover a wider range of potential stress scenarios that should include, but not be limited to, the default of the two participants and their affiliates that would generate the largest aggregate payment obligation to the CCP in extreme but plausible market conditions.","Finally, proposed Rule 17Ad-22(e)(7)(x) would require a covered clearing agency to
+establish, implement, maintain and enforce written policies and procedures reasonably designed
+to ensure that it, at least once a year, evaluates the feasibility of maintaining sufficient liquid
+resources at a minimum in all relevant currencies to effect same-day and, where appropriate,
+intraday and multiday settlement of payment obligations with a high degree of confidence under
+a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the
+two participant families that would potentially cause the largest aggregate payment obligation for
+the covered clearing agency in extreme but plausible market conditions if the covered clearing
+agency provides CCP services and is either systemically important in multiple jurisdictions or a
+clearing agency involved in activities with a more complex risk profile",0.5752134330313033,0.4678799
+5,0,"Key consideration 5: For the purpose of meeting its minimum liquid resource requirement, an FMI’s qualifying liquid resources in each currency include cash at the central bank of issue and at creditworthy commercial banks, committed lines of credit, committed foreign exchange swaps, and committed repos, as well as highly marketable collateral held in custody and investments that are readily available and convertible into cash with prearranged and highly reliable funding arrangements, even in extreme but plausible market conditions; If an FMI has access to routine credit at the central bank of issue, the FMI may count such access as part of the minimum requirement to the extent it has collateral that is eligible for pledging to (or for conducting other appropriate forms of transactions with) the relevant central bank; All such resources should be available when needed.","As proposed, Rule 17Ad-22(e)(7) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to
+effectively measure, monitor, and manage the liquidity risk that arises in or is borne by it, by
+meeting, at a minimum, the ten requirements specified in the rule.",0.19644818973214712,0.7894199
+5,1,"Key consideration 5: For the purpose of meeting its minimum liquid resource requirement, an FMI’s qualifying liquid resources in each currency include cash at the central bank of issue and at creditworthy commercial banks, committed lines of credit, committed foreign exchange swaps, and committed repos, as well as highly marketable collateral held in custody and investments that are readily available and convertible into cash with prearranged and highly reliable funding arrangements, even in extreme but plausible market conditions; If an FMI has access to routine credit at the central bank of issue, the FMI may count such access as part of the minimum requirement to the extent it has collateral that is eligible for pledging to (or for conducting other appropriate forms of transactions with) the relevant central bank; All such resources should be available when needed.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.24439958069375883,0.7518202
+5,3,"Key consideration 5: For the purpose of meeting its minimum liquid resource requirement, an FMI’s qualifying liquid resources in each currency include cash at the central bank of issue and at creditworthy commercial banks, committed lines of credit, committed foreign exchange swaps, and committed repos, as well as highly marketable collateral held in custody and investments that are readily available and convertible into cash with prearranged and highly reliable funding arrangements, even in extreme but plausible market conditions; If an FMI has access to routine credit at the central bank of issue, the FMI may count such access as part of the minimum requirement to the extent it has collateral that is eligible for pledging to (or for conducting other appropriate forms of transactions with) the relevant central bank; All such resources should be available when needed.","The Commission also proposed Rule 17Ad-22(a)(15)
+to define “qualifying liquid resources,” which would include three types of assets, in each
+relevant currency:
+• cash held either at the central bank of issue or at creditworthy commercial banks;
+• assets that are readily available and convertible into cash through either:
+o prearranged funding arrangements without material adverse change limitations,
+such as committed lines of credit, foreign exchange swaps, and repurchase
+agreements, or
+o other prearranged funding arrangements determined to be highly reliable even in
+extreme but plausible market conditions by the board of directors of the covered
+clearing agency following a review conducted for this purpose not less than
+annually; and
+• other assets that are readily available and eligible for pledging to (or conducting other
+appropriate forms of transactions with) a relevant central bank, if the covered clearing
+agency has access to routine credit at such central bank.",0.6511040310640245,0.4292149
+5,4,"Key consideration 5: For the purpose of meeting its minimum liquid resource requirement, an FMI’s qualifying liquid resources in each currency include cash at the central bank of issue and at creditworthy commercial banks, committed lines of credit, committed foreign exchange swaps, and committed repos, as well as highly marketable collateral held in custody and investments that are readily available and convertible into cash with prearranged and highly reliable funding arrangements, even in extreme but plausible market conditions; If an FMI has access to routine credit at the central bank of issue, the FMI may count such access as part of the minimum requirement to the extent it has collateral that is eligible for pledging to (or for conducting other appropriate forms of transactions with) the relevant central bank; All such resources should be available when needed.","Proposed Rule 17Ad-22(e)(7)(iii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it uses accounts and services at a Federal Reserve Bank, pursuant to Section 806(a) of the
+Clearing Supervision Act,344 or other relevant central bank, when available and wheredetermined to be practical by the board of directors of the covered clearing agency, to enhance
+its management of liquidity risk.",0.2573904474070773,0.5600841
+5,5,"Key consideration 5: For the purpose of meeting its minimum liquid resource requirement, an FMI’s qualifying liquid resources in each currency include cash at the central bank of issue and at creditworthy commercial banks, committed lines of credit, committed foreign exchange swaps, and committed repos, as well as highly marketable collateral held in custody and investments that are readily available and convertible into cash with prearranged and highly reliable funding arrangements, even in extreme but plausible market conditions; If an FMI has access to routine credit at the central bank of issue, the FMI may count such access as part of the minimum requirement to the extent it has collateral that is eligible for pledging to (or for conducting other appropriate forms of transactions with) the relevant central bank; All such resources should be available when needed.","Proposed Rule 17Ad-22(e)(7)(iv) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it undertakes due diligence to confirm that it has a reasonable basis to believe each of its liquidity
+providers, whether or not such liquidity provider is a clearing member, has sufficient information
+to understand and manage the liquidity provider’s liquidity risks, and the capacity to perform as
+required under its commitments to provide liquidity.",0.17459163606188702,1.0
+5,6,"Key consideration 5: For the purpose of meeting its minimum liquid resource requirement, an FMI’s qualifying liquid resources in each currency include cash at the central bank of issue and at creditworthy commercial banks, committed lines of credit, committed foreign exchange swaps, and committed repos, as well as highly marketable collateral held in custody and investments that are readily available and convertible into cash with prearranged and highly reliable funding arrangements, even in extreme but plausible market conditions; If an FMI has access to routine credit at the central bank of issue, the FMI may count such access as part of the minimum requirement to the extent it has collateral that is eligible for pledging to (or for conducting other appropriate forms of transactions with) the relevant central bank; All such resources should be available when needed.","Proposed Rule 17Ad-22(e)(7)(v) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that the covered clearing agency maintains and, on at least an annual basis, tests with each
+liquidity provider, to the extent practicable, its procedures and operational capacity for accessing
+each type of relevant liquidity resource.",0.19040275004534785,0.8798212
+5,7,"Key consideration 5: For the purpose of meeting its minimum liquid resource requirement, an FMI’s qualifying liquid resources in each currency include cash at the central bank of issue and at creditworthy commercial banks, committed lines of credit, committed foreign exchange swaps, and committed repos, as well as highly marketable collateral held in custody and investments that are readily available and convertible into cash with prearranged and highly reliable funding arrangements, even in extreme but plausible market conditions; If an FMI has access to routine credit at the central bank of issue, the FMI may count such access as part of the minimum requirement to the extent it has collateral that is eligible for pledging to (or for conducting other appropriate forms of transactions with) the relevant central bank; All such resources should be available when needed.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.2777239805798513,0.81171364
+5,8,"Key consideration 5: For the purpose of meeting its minimum liquid resource requirement, an FMI’s qualifying liquid resources in each currency include cash at the central bank of issue and at creditworthy commercial banks, committed lines of credit, committed foreign exchange swaps, and committed repos, as well as highly marketable collateral held in custody and investments that are readily available and convertible into cash with prearranged and highly reliable funding arrangements, even in extreme but plausible market conditions; If an FMI has access to routine credit at the central bank of issue, the FMI may count such access as part of the minimum requirement to the extent it has collateral that is eligible for pledging to (or for conducting other appropriate forms of transactions with) the relevant central bank; All such resources should be available when needed.","Proposed Rule 17Ad-22(e)(7)(vii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+performing an annual or more frequent conforming model validation of its liquidity risk
+models.",0.08428207317370973,0.78251976
+5,10,"Key consideration 5: For the purpose of meeting its minimum liquid resource requirement, an FMI’s qualifying liquid resources in each currency include cash at the central bank of issue and at creditworthy commercial banks, committed lines of credit, committed foreign exchange swaps, and committed repos, as well as highly marketable collateral held in custody and investments that are readily available and convertible into cash with prearranged and highly reliable funding arrangements, even in extreme but plausible market conditions; If an FMI has access to routine credit at the central bank of issue, the FMI may count such access as part of the minimum requirement to the extent it has collateral that is eligible for pledging to (or for conducting other appropriate forms of transactions with) the relevant central bank; All such resources should be available when needed.","Proposed Rule 17Ad-22(e)(7)(ix) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to describe
+its process for replenishing any liquid resources that it may employ during a stress event.",0.09926211363826362,0.7644328
+5,11,"Key consideration 5: For the purpose of meeting its minimum liquid resource requirement, an FMI’s qualifying liquid resources in each currency include cash at the central bank of issue and at creditworthy commercial banks, committed lines of credit, committed foreign exchange swaps, and committed repos, as well as highly marketable collateral held in custody and investments that are readily available and convertible into cash with prearranged and highly reliable funding arrangements, even in extreme but plausible market conditions; If an FMI has access to routine credit at the central bank of issue, the FMI may count such access as part of the minimum requirement to the extent it has collateral that is eligible for pledging to (or for conducting other appropriate forms of transactions with) the relevant central bank; All such resources should be available when needed.","Finally, proposed Rule 17Ad-22(e)(7)(x) would require a covered clearing agency to
+establish, implement, maintain and enforce written policies and procedures reasonably designed
+to ensure that it, at least once a year, evaluates the feasibility of maintaining sufficient liquid
+resources at a minimum in all relevant currencies to effect same-day and, where appropriate,
+intraday and multiday settlement of payment obligations with a high degree of confidence under
+a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the
+two participant families that would potentially cause the largest aggregate payment obligation for
+the covered clearing agency in extreme but plausible market conditions if the covered clearing
+agency provides CCP services and is either systemically important in multiple jurisdictions or a
+clearing agency involved in activities with a more complex risk profile",0.2678869281845311,0.38822797
+6,0,"Key consideration 6: An FMI may supplement its qualifying liquid resources with other forms of liquid resources; If the FMI does so, then these liquid resources should be in the form of assets that are likely to be saleable or acceptable as collateral for lines of credit, swaps, or repos on an ad hoc basis following a default, even if this cannot be reliably prearranged or guaranteed in extreme market conditions; Even if an FMI does not have access to routine central bank credit, it should still take account of what collateral is typically accepted by the relevant central bank, as such assets may be more likely to be liquid in stressed circumstances; An FMI should not assume the availability of emergency central bank credit as a part of its liquidity plan.","As proposed, Rule 17Ad-22(e)(7) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to
+effectively measure, monitor, and manage the liquidity risk that arises in or is borne by it, by
+meeting, at a minimum, the ten requirements specified in the rule.",0.11841877651022145,0.78006846
+6,1,"Key consideration 6: An FMI may supplement its qualifying liquid resources with other forms of liquid resources; If the FMI does so, then these liquid resources should be in the form of assets that are likely to be saleable or acceptable as collateral for lines of credit, swaps, or repos on an ad hoc basis following a default, even if this cannot be reliably prearranged or guaranteed in extreme market conditions; Even if an FMI does not have access to routine central bank credit, it should still take account of what collateral is typically accepted by the relevant central bank, as such assets may be more likely to be liquid in stressed circumstances; An FMI should not assume the availability of emergency central bank credit as a part of its liquidity plan.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.18423901254484581,0.7356505
+6,3,"Key consideration 6: An FMI may supplement its qualifying liquid resources with other forms of liquid resources; If the FMI does so, then these liquid resources should be in the form of assets that are likely to be saleable or acceptable as collateral for lines of credit, swaps, or repos on an ad hoc basis following a default, even if this cannot be reliably prearranged or guaranteed in extreme market conditions; Even if an FMI does not have access to routine central bank credit, it should still take account of what collateral is typically accepted by the relevant central bank, as such assets may be more likely to be liquid in stressed circumstances; An FMI should not assume the availability of emergency central bank credit as a part of its liquidity plan.","The Commission also proposed Rule 17Ad-22(a)(15)
+to define “qualifying liquid resources,” which would include three types of assets, in each
+relevant currency:
+• cash held either at the central bank of issue or at creditworthy commercial banks;
+• assets that are readily available and convertible into cash through either:
+o prearranged funding arrangements without material adverse change limitations,
+such as committed lines of credit, foreign exchange swaps, and repurchase
+agreements, or
+o other prearranged funding arrangements determined to be highly reliable even in
+extreme but plausible market conditions by the board of directors of the covered
+clearing agency following a review conducted for this purpose not less than
+annually; and
+• other assets that are readily available and eligible for pledging to (or conducting other
+appropriate forms of transactions with) a relevant central bank, if the covered clearing
+agency has access to routine credit at such central bank.",0.39651516484365307,0.48027575
+6,5,"Key consideration 6: An FMI may supplement its qualifying liquid resources with other forms of liquid resources; If the FMI does so, then these liquid resources should be in the form of assets that are likely to be saleable or acceptable as collateral for lines of credit, swaps, or repos on an ad hoc basis following a default, even if this cannot be reliably prearranged or guaranteed in extreme market conditions; Even if an FMI does not have access to routine central bank credit, it should still take account of what collateral is typically accepted by the relevant central bank, as such assets may be more likely to be liquid in stressed circumstances; An FMI should not assume the availability of emergency central bank credit as a part of its liquidity plan.","Proposed Rule 17Ad-22(e)(7)(iv) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it undertakes due diligence to confirm that it has a reasonable basis to believe each of its liquidity
+providers, whether or not such liquidity provider is a clearing member, has sufficient information
+to understand and manage the liquidity provider’s liquidity risks, and the capacity to perform as
+required under its commitments to provide liquidity.",0.12160483408668907,0.8798212
+6,6,"Key consideration 6: An FMI may supplement its qualifying liquid resources with other forms of liquid resources; If the FMI does so, then these liquid resources should be in the form of assets that are likely to be saleable or acceptable as collateral for lines of credit, swaps, or repos on an ad hoc basis following a default, even if this cannot be reliably prearranged or guaranteed in extreme market conditions; Even if an FMI does not have access to routine central bank credit, it should still take account of what collateral is typically accepted by the relevant central bank, as such assets may be more likely to be liquid in stressed circumstances; An FMI should not assume the availability of emergency central bank credit as a part of its liquidity plan.","Proposed Rule 17Ad-22(e)(7)(v) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that the covered clearing agency maintains and, on at least an annual basis, tests with each
+liquidity provider, to the extent practicable, its procedures and operational capacity for accessing
+each type of relevant liquidity resource.",0.10490766635613283,1.0000002
+6,7,"Key consideration 6: An FMI may supplement its qualifying liquid resources with other forms of liquid resources; If the FMI does so, then these liquid resources should be in the form of assets that are likely to be saleable or acceptable as collateral for lines of credit, swaps, or repos on an ad hoc basis following a default, even if this cannot be reliably prearranged or guaranteed in extreme market conditions; Even if an FMI does not have access to routine central bank credit, it should still take account of what collateral is typically accepted by the relevant central bank, as such assets may be more likely to be liquid in stressed circumstances; An FMI should not assume the availability of emergency central bank credit as a part of its liquidity plan.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.1598779930603939,0.7643057
+6,8,"Key consideration 6: An FMI may supplement its qualifying liquid resources with other forms of liquid resources; If the FMI does so, then these liquid resources should be in the form of assets that are likely to be saleable or acceptable as collateral for lines of credit, swaps, or repos on an ad hoc basis following a default, even if this cannot be reliably prearranged or guaranteed in extreme market conditions; Even if an FMI does not have access to routine central bank credit, it should still take account of what collateral is typically accepted by the relevant central bank, as such assets may be more likely to be liquid in stressed circumstances; An FMI should not assume the availability of emergency central bank credit as a part of its liquidity plan.","Proposed Rule 17Ad-22(e)(7)(vii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+performing an annual or more frequent conforming model validation of its liquidity risk
+models.",0.09413482275357322,0.75572544
+6,10,"Key consideration 6: An FMI may supplement its qualifying liquid resources with other forms of liquid resources; If the FMI does so, then these liquid resources should be in the form of assets that are likely to be saleable or acceptable as collateral for lines of credit, swaps, or repos on an ad hoc basis following a default, even if this cannot be reliably prearranged or guaranteed in extreme market conditions; Even if an FMI does not have access to routine central bank credit, it should still take account of what collateral is typically accepted by the relevant central bank, as such assets may be more likely to be liquid in stressed circumstances; An FMI should not assume the availability of emergency central bank credit as a part of its liquidity plan.","Proposed Rule 17Ad-22(e)(7)(ix) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to describe
+its process for replenishing any liquid resources that it may employ during a stress event.",0.08472321866246399,0.7344691
+7,0,"Key consideration 7: An FMI should obtain a high degree of confidence, through rigorous due diligence, that each provider of its minimum required qualifying liquid resources, whether a participant of the FMI or an external party, has sufficient information to understand and to manage its associated liquidity risks, and that it has the capacity to perform as required under its commitment; Where relevant to assessing a liquidity provider’s performance reliability with respect to a particular currency, a liquidity provider’s potential access to credit from the central bank of issue may be taken into account; An FMI should regularly test its procedures for accessing its liquid resources at a liquidity provider.","As proposed, Rule 17Ad-22(e)(7) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to
+effectively measure, monitor, and manage the liquidity risk that arises in or is borne by it, by
+meeting, at a minimum, the ten requirements specified in the rule.",0.13878341730073843,0.8560015
+7,1,"Key consideration 7: An FMI should obtain a high degree of confidence, through rigorous due diligence, that each provider of its minimum required qualifying liquid resources, whether a participant of the FMI or an external party, has sufficient information to understand and to manage its associated liquidity risks, and that it has the capacity to perform as required under its commitment; Where relevant to assessing a liquidity provider’s performance reliability with respect to a particular currency, a liquidity provider’s potential access to credit from the central bank of issue may be taken into account; An FMI should regularly test its procedures for accessing its liquid resources at a liquidity provider.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.23644005946810173,0.814262
+7,2,"Key consideration 7: An FMI should obtain a high degree of confidence, through rigorous due diligence, that each provider of its minimum required qualifying liquid resources, whether a participant of the FMI or an external party, has sufficient information to understand and to manage its associated liquidity risks, and that it has the capacity to perform as required under its commitment; Where relevant to assessing a liquidity provider’s performance reliability with respect to a particular currency, a liquidity provider’s potential access to credit from the central bank of issue may be taken into account; An FMI should regularly test its procedures for accessing its liquid resources at a liquidity provider.","Proposed Rule 17Ad-22(e)(7)(ii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that it holds qualifying liquid resources sufficient to meet the minimum liquidity resource
+requirement in each relevant currency for which the covered clearing agency has payment obligations owed to clearing members.",0.21642325012556415,0.7438403
+7,5,"Key consideration 7: An FMI should obtain a high degree of confidence, through rigorous due diligence, that each provider of its minimum required qualifying liquid resources, whether a participant of the FMI or an external party, has sufficient information to understand and to manage its associated liquidity risks, and that it has the capacity to perform as required under its commitment; Where relevant to assessing a liquidity provider’s performance reliability with respect to a particular currency, a liquidity provider’s potential access to credit from the central bank of issue may be taken into account; An FMI should regularly test its procedures for accessing its liquid resources at a liquidity provider.","Proposed Rule 17Ad-22(e)(7)(iv) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it undertakes due diligence to confirm that it has a reasonable basis to believe each of its liquidity
+providers, whether or not such liquidity provider is a clearing member, has sufficient information
+to understand and manage the liquidity provider’s liquidity risks, and the capacity to perform as
+required under its commitments to provide liquidity.",0.48954996734742123,0.81171364
+7,6,"Key consideration 7: An FMI should obtain a high degree of confidence, through rigorous due diligence, that each provider of its minimum required qualifying liquid resources, whether a participant of the FMI or an external party, has sufficient information to understand and to manage its associated liquidity risks, and that it has the capacity to perform as required under its commitment; Where relevant to assessing a liquidity provider’s performance reliability with respect to a particular currency, a liquidity provider’s potential access to credit from the central bank of issue may be taken into account; An FMI should regularly test its procedures for accessing its liquid resources at a liquidity provider.","Proposed Rule 17Ad-22(e)(7)(v) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that the covered clearing agency maintains and, on at least an annual basis, tests with each
+liquidity provider, to the extent practicable, its procedures and operational capacity for accessing
+each type of relevant liquidity resource.",0.29057296830845997,0.7643057
+7,7,"Key consideration 7: An FMI should obtain a high degree of confidence, through rigorous due diligence, that each provider of its minimum required qualifying liquid resources, whether a participant of the FMI or an external party, has sufficient information to understand and to manage its associated liquidity risks, and that it has the capacity to perform as required under its commitment; Where relevant to assessing a liquidity provider’s performance reliability with respect to a particular currency, a liquidity provider’s potential access to credit from the central bank of issue may be taken into account; An FMI should regularly test its procedures for accessing its liquid resources at a liquidity provider.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.2067169544640132,0.9999997
+7,8,"Key consideration 7: An FMI should obtain a high degree of confidence, through rigorous due diligence, that each provider of its minimum required qualifying liquid resources, whether a participant of the FMI or an external party, has sufficient information to understand and to manage its associated liquidity risks, and that it has the capacity to perform as required under its commitment; Where relevant to assessing a liquidity provider’s performance reliability with respect to a particular currency, a liquidity provider’s potential access to credit from the central bank of issue may be taken into account; An FMI should regularly test its procedures for accessing its liquid resources at a liquidity provider.","Proposed Rule 17Ad-22(e)(7)(vii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+performing an annual or more frequent conforming model validation of its liquidity risk
+models.",0.12657834723024478,0.78611404
+7,9,"Key consideration 7: An FMI should obtain a high degree of confidence, through rigorous due diligence, that each provider of its minimum required qualifying liquid resources, whether a participant of the FMI or an external party, has sufficient information to understand and to manage its associated liquidity risks, and that it has the capacity to perform as required under its commitment; Where relevant to assessing a liquidity provider’s performance reliability with respect to a particular currency, a liquidity provider’s potential access to credit from the central bank of issue may be taken into account; An FMI should regularly test its procedures for accessing its liquid resources at a liquidity provider.","Proposed Rule 17Ad-22(e)(7)(viii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to address
+foreseeable liquidity shortfalls that would not be covered by its liquid resources and seek to
+avoid unwinding, revoking, or delaying the same-day settlement of payment obligations.",0.15531800351303043,0.7688485
+7,10,"Key consideration 7: An FMI should obtain a high degree of confidence, through rigorous due diligence, that each provider of its minimum required qualifying liquid resources, whether a participant of the FMI or an external party, has sufficient information to understand and to manage its associated liquidity risks, and that it has the capacity to perform as required under its commitment; Where relevant to assessing a liquidity provider’s performance reliability with respect to a particular currency, a liquidity provider’s potential access to credit from the central bank of issue may be taken into account; An FMI should regularly test its procedures for accessing its liquid resources at a liquidity provider.","Proposed Rule 17Ad-22(e)(7)(ix) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to describe
+its process for replenishing any liquid resources that it may employ during a stress event.",0.13184811877888564,0.79004794
+8,0,"Key consideration 8: An FMI with access to central bank accounts, payment services, or securities services should use these services, where practical, to enhance its management of liquidity risk.","As proposed, Rule 17Ad-22(e)(7) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to
+effectively measure, monitor, and manage the liquidity risk that arises in or is borne by it, by
+meeting, at a minimum, the ten requirements specified in the rule.",0.047024265648371505,0.74401957
+8,1,"Key consideration 8: An FMI with access to central bank accounts, payment services, or securities services should use these services, where practical, to enhance its management of liquidity risk.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.08672486664835272,0.8254615
+8,2,"Key consideration 8: An FMI with access to central bank accounts, payment services, or securities services should use these services, where practical, to enhance its management of liquidity risk.","Proposed Rule 17Ad-22(e)(7)(ii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that it holds qualifying liquid resources sufficient to meet the minimum liquidity resource
+requirement in each relevant currency for which the covered clearing agency has payment obligations owed to clearing members.",0.057049220959175945,0.735092
+8,4,"Key consideration 8: An FMI with access to central bank accounts, payment services, or securities services should use these services, where practical, to enhance its management of liquidity risk.","Proposed Rule 17Ad-22(e)(7)(iii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it uses accounts and services at a Federal Reserve Bank, pursuant to Section 806(a) of the
+Clearing Supervision Act,344 or other relevant central bank, when available and wheredetermined to be practical by the board of directors of the covered clearing agency, to enhance
+its management of liquidity risk.",0.3408063247838209,0.5089486
+8,5,"Key consideration 8: An FMI with access to central bank accounts, payment services, or securities services should use these services, where practical, to enhance its management of liquidity risk.","Proposed Rule 17Ad-22(e)(7)(iv) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it undertakes due diligence to confirm that it has a reasonable basis to believe each of its liquidity
+providers, whether or not such liquidity provider is a clearing member, has sufficient information
+to understand and manage the liquidity provider’s liquidity risks, and the capacity to perform as
+required under its commitments to provide liquidity.",0.09308395942148769,0.78251976
+8,6,"Key consideration 8: An FMI with access to central bank accounts, payment services, or securities services should use these services, where practical, to enhance its management of liquidity risk.","Proposed Rule 17Ad-22(e)(7)(v) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that the covered clearing agency maintains and, on at least an annual basis, tests with each
+liquidity provider, to the extent practicable, its procedures and operational capacity for accessing
+each type of relevant liquidity resource.",0.0805441393180318,0.75572544
+8,7,"Key consideration 8: An FMI with access to central bank accounts, payment services, or securities services should use these services, where practical, to enhance its management of liquidity risk.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.08692408366528831,0.78611404
+8,8,"Key consideration 8: An FMI with access to central bank accounts, payment services, or securities services should use these services, where practical, to enhance its management of liquidity risk.","Proposed Rule 17Ad-22(e)(7)(vii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+performing an annual or more frequent conforming model validation of its liquidity risk
+models.",0.08874047846161386,1.0
+8,10,"Key consideration 8: An FMI with access to central bank accounts, payment services, or securities services should use these services, where practical, to enhance its management of liquidity risk.","Proposed Rule 17Ad-22(e)(7)(ix) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to describe
+its process for replenishing any liquid resources that it may employ during a stress event.",0.030587578659598155,0.7657623
+9,0,"Key consideration 9: An FMI should determine the amount and regularly test the sufficiency of its liquid resources through rigorous stress testing; An FMI should have clear procedures to report the results of its stress tests to appropriate decision makers at the FMI and to use these results to evaluate the adequacy of and adjust its liquidity risk-management framework; In conducting stress testing, an FMI should consider a wide range of relevant scenarios; Scenarios should include relevant peak historic price volatilities, shifts in other market factors such as price determinants and yield curves, multiple defaults over various time horizons, simultaneous pressures in funding and asset markets, and a spectrum of forward-looking stress scenarios in a variety of extreme but plausible market conditions; Scenarios should also take into account the design and operation of the FMI, include all entities that might pose material liquidity risks to the FMI (such as settlement banks, nostro agents, custodian banks, liquidity providers, and linked FMIs), and where appropriate, cover a multiday period; In all cases, an FMI should document its supporting rationale for, and should have appropriate governance arrangements relating to, the amount and form of total liquid resources it maintains.","As proposed, Rule 17Ad-22(e)(7) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to
+effectively measure, monitor, and manage the liquidity risk that arises in or is borne by it, by
+meeting, at a minimum, the ten requirements specified in the rule.",0.17601521875854126,0.79547065
+9,1,"Key consideration 9: An FMI should determine the amount and regularly test the sufficiency of its liquid resources through rigorous stress testing; An FMI should have clear procedures to report the results of its stress tests to appropriate decision makers at the FMI and to use these results to evaluate the adequacy of and adjust its liquidity risk-management framework; In conducting stress testing, an FMI should consider a wide range of relevant scenarios; Scenarios should include relevant peak historic price volatilities, shifts in other market factors such as price determinants and yield curves, multiple defaults over various time horizons, simultaneous pressures in funding and asset markets, and a spectrum of forward-looking stress scenarios in a variety of extreme but plausible market conditions; Scenarios should also take into account the design and operation of the FMI, include all entities that might pose material liquidity risks to the FMI (such as settlement banks, nostro agents, custodian banks, liquidity providers, and linked FMIs), and where appropriate, cover a multiday period; In all cases, an FMI should document its supporting rationale for, and should have appropriate governance arrangements relating to, the amount and form of total liquid resources it maintains.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.3125369613104393,0.7070147
+9,7,"Key consideration 9: An FMI should determine the amount and regularly test the sufficiency of its liquid resources through rigorous stress testing; An FMI should have clear procedures to report the results of its stress tests to appropriate decision makers at the FMI and to use these results to evaluate the adequacy of and adjust its liquidity risk-management framework; In conducting stress testing, an FMI should consider a wide range of relevant scenarios; Scenarios should include relevant peak historic price volatilities, shifts in other market factors such as price determinants and yield curves, multiple defaults over various time horizons, simultaneous pressures in funding and asset markets, and a spectrum of forward-looking stress scenarios in a variety of extreme but plausible market conditions; Scenarios should also take into account the design and operation of the FMI, include all entities that might pose material liquidity risks to the FMI (such as settlement banks, nostro agents, custodian banks, liquidity providers, and linked FMIs), and where appropriate, cover a multiday period; In all cases, an FMI should document its supporting rationale for, and should have appropriate governance arrangements relating to, the amount and form of total liquid resources it maintains.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.37615719806068676,0.7688485
+9,9,"Key consideration 9: An FMI should determine the amount and regularly test the sufficiency of its liquid resources through rigorous stress testing; An FMI should have clear procedures to report the results of its stress tests to appropriate decision makers at the FMI and to use these results to evaluate the adequacy of and adjust its liquidity risk-management framework; In conducting stress testing, an FMI should consider a wide range of relevant scenarios; Scenarios should include relevant peak historic price volatilities, shifts in other market factors such as price determinants and yield curves, multiple defaults over various time horizons, simultaneous pressures in funding and asset markets, and a spectrum of forward-looking stress scenarios in a variety of extreme but plausible market conditions; Scenarios should also take into account the design and operation of the FMI, include all entities that might pose material liquidity risks to the FMI (such as settlement banks, nostro agents, custodian banks, liquidity providers, and linked FMIs), and where appropriate, cover a multiday period; In all cases, an FMI should document its supporting rationale for, and should have appropriate governance arrangements relating to, the amount and form of total liquid resources it maintains.","Proposed Rule 17Ad-22(e)(7)(viii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to address
+foreseeable liquidity shortfalls that would not be covered by its liquid resources and seek to
+avoid unwinding, revoking, or delaying the same-day settlement of payment obligations.",0.14748798492739287,1.0000001
+9,10,"Key consideration 9: An FMI should determine the amount and regularly test the sufficiency of its liquid resources through rigorous stress testing; An FMI should have clear procedures to report the results of its stress tests to appropriate decision makers at the FMI and to use these results to evaluate the adequacy of and adjust its liquidity risk-management framework; In conducting stress testing, an FMI should consider a wide range of relevant scenarios; Scenarios should include relevant peak historic price volatilities, shifts in other market factors such as price determinants and yield curves, multiple defaults over various time horizons, simultaneous pressures in funding and asset markets, and a spectrum of forward-looking stress scenarios in a variety of extreme but plausible market conditions; Scenarios should also take into account the design and operation of the FMI, include all entities that might pose material liquidity risks to the FMI (such as settlement banks, nostro agents, custodian banks, liquidity providers, and linked FMIs), and where appropriate, cover a multiday period; In all cases, an FMI should document its supporting rationale for, and should have appropriate governance arrangements relating to, the amount and form of total liquid resources it maintains.","Proposed Rule 17Ad-22(e)(7)(ix) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to describe
+its process for replenishing any liquid resources that it may employ during a stress event.",0.12142930550760539,0.7307926
+9,11,"Key consideration 9: An FMI should determine the amount and regularly test the sufficiency of its liquid resources through rigorous stress testing; An FMI should have clear procedures to report the results of its stress tests to appropriate decision makers at the FMI and to use these results to evaluate the adequacy of and adjust its liquidity risk-management framework; In conducting stress testing, an FMI should consider a wide range of relevant scenarios; Scenarios should include relevant peak historic price volatilities, shifts in other market factors such as price determinants and yield curves, multiple defaults over various time horizons, simultaneous pressures in funding and asset markets, and a spectrum of forward-looking stress scenarios in a variety of extreme but plausible market conditions; Scenarios should also take into account the design and operation of the FMI, include all entities that might pose material liquidity risks to the FMI (such as settlement banks, nostro agents, custodian banks, liquidity providers, and linked FMIs), and where appropriate, cover a multiday period; In all cases, an FMI should document its supporting rationale for, and should have appropriate governance arrangements relating to, the amount and form of total liquid resources it maintains.","Finally, proposed Rule 17Ad-22(e)(7)(x) would require a covered clearing agency to
+establish, implement, maintain and enforce written policies and procedures reasonably designed
+to ensure that it, at least once a year, evaluates the feasibility of maintaining sufficient liquid
+resources at a minimum in all relevant currencies to effect same-day and, where appropriate,
+intraday and multiday settlement of payment obligations with a high degree of confidence under
+a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the
+two participant families that would potentially cause the largest aggregate payment obligation for
+the covered clearing agency in extreme but plausible market conditions if the covered clearing
+agency provides CCP services and is either systemically important in multiple jurisdictions or a
+clearing agency involved in activities with a more complex risk profile",0.2903974639920726,0.37776494
+10,0,"Key consideration 10: An FMI should establish explicit rules and procedures that enable the FMI to effect same-day and, where appropriate, intraday
+  any other relevant aspects of its liquidity risk management framework;and multiday settlement of payment obligations on time following any individual or combined default among its participants; These rules and procedures should address unforeseen and potentially uncovered liquidity shortfalls and should aim to avoid unwinding, revoking, or delaying the same- day settlement of payment obligations; These rules and procedures should also indicate the FMI’s process to replenish any liquidity resources it may employ during a stress event, so that it can continue to operate in a safe and sound manner.","As proposed, Rule 17Ad-22(e)(7) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to
+effectively measure, monitor, and manage the liquidity risk that arises in or is borne by it, by
+meeting, at a minimum, the ten requirements specified in the rule.",0.16576007313153496,0.88568926
+10,1,"Key consideration 10: An FMI should establish explicit rules and procedures that enable the FMI to effect same-day and, where appropriate, intraday
+  any other relevant aspects of its liquidity risk management framework;and multiday settlement of payment obligations on time following any individual or combined default among its participants; These rules and procedures should address unforeseen and potentially uncovered liquidity shortfalls and should aim to avoid unwinding, revoking, or delaying the same- day settlement of payment obligations; These rules and procedures should also indicate the FMI’s process to replenish any liquidity resources it may employ during a stress event, so that it can continue to operate in a safe and sound manner.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.2958444509644267,0.7936796
+10,2,"Key consideration 10: An FMI should establish explicit rules and procedures that enable the FMI to effect same-day and, where appropriate, intraday
+  any other relevant aspects of its liquidity risk management framework;and multiday settlement of payment obligations on time following any individual or combined default among its participants; These rules and procedures should address unforeseen and potentially uncovered liquidity shortfalls and should aim to avoid unwinding, revoking, or delaying the same- day settlement of payment obligations; These rules and procedures should also indicate the FMI’s process to replenish any liquidity resources it may employ during a stress event, so that it can continue to operate in a safe and sound manner.","Proposed Rule 17Ad-22(e)(7)(ii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that it holds qualifying liquid resources sufficient to meet the minimum liquidity resource
+requirement in each relevant currency for which the covered clearing agency has payment obligations owed to clearing members.",0.17223338113915954,0.8318579
+10,5,"Key consideration 10: An FMI should establish explicit rules and procedures that enable the FMI to effect same-day and, where appropriate, intraday
+  any other relevant aspects of its liquidity risk management framework;and multiday settlement of payment obligations on time following any individual or combined default among its participants; These rules and procedures should address unforeseen and potentially uncovered liquidity shortfalls and should aim to avoid unwinding, revoking, or delaying the same- day settlement of payment obligations; These rules and procedures should also indicate the FMI’s process to replenish any liquidity resources it may employ during a stress event, so that it can continue to operate in a safe and sound manner.","Proposed Rule 17Ad-22(e)(7)(iv) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it undertakes due diligence to confirm that it has a reasonable basis to believe each of its liquidity
+providers, whether or not such liquidity provider is a clearing member, has sufficient information
+to understand and manage the liquidity provider’s liquidity risks, and the capacity to perform as
+required under its commitments to provide liquidity.",0.19612953102035996,0.7644328
+10,6,"Key consideration 10: An FMI should establish explicit rules and procedures that enable the FMI to effect same-day and, where appropriate, intraday
+  any other relevant aspects of its liquidity risk management framework;and multiday settlement of payment obligations on time following any individual or combined default among its participants; These rules and procedures should address unforeseen and potentially uncovered liquidity shortfalls and should aim to avoid unwinding, revoking, or delaying the same- day settlement of payment obligations; These rules and procedures should also indicate the FMI’s process to replenish any liquidity resources it may employ during a stress event, so that it can continue to operate in a safe and sound manner.","Proposed Rule 17Ad-22(e)(7)(v) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that the covered clearing agency maintains and, on at least an annual basis, tests with each
+liquidity provider, to the extent practicable, its procedures and operational capacity for accessing
+each type of relevant liquidity resource.",0.19845745142605842,0.7344691
+10,7,"Key consideration 10: An FMI should establish explicit rules and procedures that enable the FMI to effect same-day and, where appropriate, intraday
+  any other relevant aspects of its liquidity risk management framework;and multiday settlement of payment obligations on time following any individual or combined default among its participants; These rules and procedures should address unforeseen and potentially uncovered liquidity shortfalls and should aim to avoid unwinding, revoking, or delaying the same- day settlement of payment obligations; These rules and procedures should also indicate the FMI’s process to replenish any liquidity resources it may employ during a stress event, so that it can continue to operate in a safe and sound manner.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.25157165915856844,0.79004794
+10,8,"Key consideration 10: An FMI should establish explicit rules and procedures that enable the FMI to effect same-day and, where appropriate, intraday
+  any other relevant aspects of its liquidity risk management framework;and multiday settlement of payment obligations on time following any individual or combined default among its participants; These rules and procedures should address unforeseen and potentially uncovered liquidity shortfalls and should aim to avoid unwinding, revoking, or delaying the same- day settlement of payment obligations; These rules and procedures should also indicate the FMI’s process to replenish any liquidity resources it may employ during a stress event, so that it can continue to operate in a safe and sound manner.","Proposed Rule 17Ad-22(e)(7)(vii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+performing an annual or more frequent conforming model validation of its liquidity risk
+models.",0.14016670171304374,0.7657623
+10,9,"Key consideration 10: An FMI should establish explicit rules and procedures that enable the FMI to effect same-day and, where appropriate, intraday
+  any other relevant aspects of its liquidity risk management framework;and multiday settlement of payment obligations on time following any individual or combined default among its participants; These rules and procedures should address unforeseen and potentially uncovered liquidity shortfalls and should aim to avoid unwinding, revoking, or delaying the same- day settlement of payment obligations; These rules and procedures should also indicate the FMI’s process to replenish any liquidity resources it may employ during a stress event, so that it can continue to operate in a safe and sound manner.","Proposed Rule 17Ad-22(e)(7)(viii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to address
+foreseeable liquidity shortfalls that would not be covered by its liquid resources and seek to
+avoid unwinding, revoking, or delaying the same-day settlement of payment obligations.",0.35451410267475436,0.7307926
+10,10,"Key consideration 10: An FMI should establish explicit rules and procedures that enable the FMI to effect same-day and, where appropriate, intraday
+  any other relevant aspects of its liquidity risk management framework;and multiday settlement of payment obligations on time following any individual or combined default among its participants; These rules and procedures should address unforeseen and potentially uncovered liquidity shortfalls and should aim to avoid unwinding, revoking, or delaying the same- day settlement of payment obligations; These rules and procedures should also indicate the FMI’s process to replenish any liquidity resources it may employ during a stress event, so that it can continue to operate in a safe and sound manner.","Proposed Rule 17Ad-22(e)(7)(ix) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to describe
+its process for replenishing any liquid resources that it may employ during a stress event.",0.2895661593992429,0.99999964
+10,11,"Key consideration 10: An FMI should establish explicit rules and procedures that enable the FMI to effect same-day and, where appropriate, intraday
+  any other relevant aspects of its liquidity risk management framework;and multiday settlement of payment obligations on time following any individual or combined default among its participants; These rules and procedures should address unforeseen and potentially uncovered liquidity shortfalls and should aim to avoid unwinding, revoking, or delaying the same- day settlement of payment obligations; These rules and procedures should also indicate the FMI’s process to replenish any liquidity resources it may employ during a stress event, so that it can continue to operate in a safe and sound manner.","Finally, proposed Rule 17Ad-22(e)(7)(x) would require a covered clearing agency to
+establish, implement, maintain and enforce written policies and procedures reasonably designed
+to ensure that it, at least once a year, evaluates the feasibility of maintaining sufficient liquid
+resources at a minimum in all relevant currencies to effect same-day and, where appropriate,
+intraday and multiday settlement of payment obligations with a high degree of confidence under
+a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the
+two participant families that would potentially cause the largest aggregate payment obligation for
+the covered clearing agency in extreme but plausible market conditions if the covered clearing
+agency provides CCP services and is either systemically important in multiple jurisdictions or a
+clearing agency involved in activities with a more complex risk profile",0.25875499931048124,0.4805541
+11,0,"Each covered clearing agency shall establish, implement, maintain and enforce written policies and procedures reasonably designed to, as applicable:
+(7) Effectively measure, monitor, and manage the liquidity risk that arises in or is borne by the covered clearing agency, including measuring, monitoring, and managing its settlement and funding flows on an ongoing and timely basis, and its use of intraday liquidity by, at a minimum, doing the following.","As proposed, Rule 17Ad-22(e)(7) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to
+effectively measure, monitor, and manage the liquidity risk that arises in or is borne by it, by
+meeting, at a minimum, the ten requirements specified in the rule.",0.5664423708418324,0.5024459
+11,2,"Each covered clearing agency shall establish, implement, maintain and enforce written policies and procedures reasonably designed to, as applicable:
+(7) Effectively measure, monitor, and manage the liquidity risk that arises in or is borne by the covered clearing agency, including measuring, monitoring, and managing its settlement and funding flows on an ongoing and timely basis, and its use of intraday liquidity by, at a minimum, doing the following.","Proposed Rule 17Ad-22(e)(7)(ii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that it holds qualifying liquid resources sufficient to meet the minimum liquidity resource
+requirement in each relevant currency for which the covered clearing agency has payment obligations owed to clearing members.",0.31600345580057215,0.55804175
+11,4,"Each covered clearing agency shall establish, implement, maintain and enforce written policies and procedures reasonably designed to, as applicable:
+(7) Effectively measure, monitor, and manage the liquidity risk that arises in or is borne by the covered clearing agency, including measuring, monitoring, and managing its settlement and funding flows on an ongoing and timely basis, and its use of intraday liquidity by, at a minimum, doing the following.","Proposed Rule 17Ad-22(e)(7)(iii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it uses accounts and services at a Federal Reserve Bank, pursuant to Section 806(a) of the
+Clearing Supervision Act,344 or other relevant central bank, when available and wheredetermined to be practical by the board of directors of the covered clearing agency, to enhance
+its management of liquidity risk.",0.3288169832764432,0.4678799
+11,5,"Each covered clearing agency shall establish, implement, maintain and enforce written policies and procedures reasonably designed to, as applicable:
+(7) Effectively measure, monitor, and manage the liquidity risk that arises in or is borne by the covered clearing agency, including measuring, monitoring, and managing its settlement and funding flows on an ongoing and timely basis, and its use of intraday liquidity by, at a minimum, doing the following.","Proposed Rule 17Ad-22(e)(7)(iv) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it undertakes due diligence to confirm that it has a reasonable basis to believe each of its liquidity
+providers, whether or not such liquidity provider is a clearing member, has sufficient information
+to understand and manage the liquidity provider’s liquidity risks, and the capacity to perform as
+required under its commitments to provide liquidity.",0.33343529673057726,0.38822797
+11,6,"Each covered clearing agency shall establish, implement, maintain and enforce written policies and procedures reasonably designed to, as applicable:
+(7) Effectively measure, monitor, and manage the liquidity risk that arises in or is borne by the covered clearing agency, including measuring, monitoring, and managing its settlement and funding flows on an ongoing and timely basis, and its use of intraday liquidity by, at a minimum, doing the following.","Proposed Rule 17Ad-22(e)(7)(v) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that the covered clearing agency maintains and, on at least an annual basis, tests with each
+liquidity provider, to the extent practicable, its procedures and operational capacity for accessing
+each type of relevant liquidity resource.",0.4111537358910567,0.42977843
+11,7,"Each covered clearing agency shall establish, implement, maintain and enforce written policies and procedures reasonably designed to, as applicable:
+(7) Effectively measure, monitor, and manage the liquidity risk that arises in or is borne by the covered clearing agency, including measuring, monitoring, and managing its settlement and funding flows on an ongoing and timely basis, and its use of intraday liquidity by, at a minimum, doing the following.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.3951100237024606,0.38762158
+11,8,"Each covered clearing agency shall establish, implement, maintain and enforce written policies and procedures reasonably designed to, as applicable:
+(7) Effectively measure, monitor, and manage the liquidity risk that arises in or is borne by the covered clearing agency, including measuring, monitoring, and managing its settlement and funding flows on an ongoing and timely basis, and its use of intraday liquidity by, at a minimum, doing the following.","Proposed Rule 17Ad-22(e)(7)(vii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+performing an annual or more frequent conforming model validation of its liquidity risk
+models.",0.29042183240637737,0.4176487
+11,9,"Each covered clearing agency shall establish, implement, maintain and enforce written policies and procedures reasonably designed to, as applicable:
+(7) Effectively measure, monitor, and manage the liquidity risk that arises in or is borne by the covered clearing agency, including measuring, monitoring, and managing its settlement and funding flows on an ongoing and timely basis, and its use of intraday liquidity by, at a minimum, doing the following.","Proposed Rule 17Ad-22(e)(7)(viii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to address
+foreseeable liquidity shortfalls that would not be covered by its liquid resources and seek to
+avoid unwinding, revoking, or delaying the same-day settlement of payment obligations.",0.3387377404736484,0.37776494
+11,10,"Each covered clearing agency shall establish, implement, maintain and enforce written policies and procedures reasonably designed to, as applicable:
+(7) Effectively measure, monitor, and manage the liquidity risk that arises in or is borne by the covered clearing agency, including measuring, monitoring, and managing its settlement and funding flows on an ongoing and timely basis, and its use of intraday liquidity by, at a minimum, doing the following.","Proposed Rule 17Ad-22(e)(7)(ix) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to describe
+its process for replenishing any liquid resources that it may employ during a stress event.",0.252559840203399,0.4805541
+11,11,"Each covered clearing agency shall establish, implement, maintain and enforce written policies and procedures reasonably designed to, as applicable:
+(7) Effectively measure, monitor, and manage the liquidity risk that arises in or is borne by the covered clearing agency, including measuring, monitoring, and managing its settlement and funding flows on an ongoing and timely basis, and its use of intraday liquidity by, at a minimum, doing the following.","Finally, proposed Rule 17Ad-22(e)(7)(x) would require a covered clearing agency to
+establish, implement, maintain and enforce written policies and procedures reasonably designed
+to ensure that it, at least once a year, evaluates the feasibility of maintaining sufficient liquid
+resources at a minimum in all relevant currencies to effect same-day and, where appropriate,
+intraday and multiday settlement of payment obligations with a high degree of confidence under
+a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the
+two participant families that would potentially cause the largest aggregate payment obligation for
+the covered clearing agency in extreme but plausible market conditions if the covered clearing
+agency provides CCP services and is either systemically important in multiple jurisdictions or a
+clearing agency involved in activities with a more complex risk profile",0.33853268977653306,1.0000004
+12,1,"(i) Maintaining sufficient liquid resources at the minimum in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the participant family that would generate the largest aggregate payment obligation for the covered clearing agency in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.8152607686540376,0.47127524
+12,2,"(i) Maintaining sufficient liquid resources at the minimum in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the participant family that would generate the largest aggregate payment obligation for the covered clearing agency in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(ii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that it holds qualifying liquid resources sufficient to meet the minimum liquidity resource
+requirement in each relevant currency for which the covered clearing agency has payment obligations owed to clearing members.",0.2654138363805287,0.46127188
+12,3,"(i) Maintaining sufficient liquid resources at the minimum in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the participant family that would generate the largest aggregate payment obligation for the covered clearing agency in extreme but plausible market conditions.","The Commission also proposed Rule 17Ad-22(a)(15)
+to define “qualifying liquid resources,” which would include three types of assets, in each
+relevant currency:
+• cash held either at the central bank of issue or at creditworthy commercial banks;
+• assets that are readily available and convertible into cash through either:
+o prearranged funding arrangements without material adverse change limitations,
+such as committed lines of credit, foreign exchange swaps, and repurchase
+agreements, or
+o other prearranged funding arrangements determined to be highly reliable even in
+extreme but plausible market conditions by the board of directors of the covered
+clearing agency following a review conducted for this purpose not less than
+annually; and
+• other assets that are readily available and eligible for pledging to (or conducting other
+appropriate forms of transactions with) a relevant central bank, if the covered clearing
+agency has access to routine credit at such central bank.",0.2449850040768572,0.7905716
+12,7,"(i) Maintaining sufficient liquid resources at the minimum in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the participant family that would generate the largest aggregate payment obligation for the covered clearing agency in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.32916281495435284,0.38187402
+12,9,"(i) Maintaining sufficient liquid resources at the minimum in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the participant family that would generate the largest aggregate payment obligation for the covered clearing agency in extreme but plausible market conditions.","Proposed Rule 17Ad-22(e)(7)(viii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to address
+foreseeable liquidity shortfalls that would not be covered by its liquid resources and seek to
+avoid unwinding, revoking, or delaying the same-day settlement of payment obligations.",0.28754473946267256,0.41136125
+12,11,"(i) Maintaining sufficient liquid resources at the minimum in all relevant currencies to effect same-day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the participant family that would generate the largest aggregate payment obligation for the covered clearing agency in extreme but plausible market conditions.","Finally, proposed Rule 17Ad-22(e)(7)(x) would require a covered clearing agency to
+establish, implement, maintain and enforce written policies and procedures reasonably designed
+to ensure that it, at least once a year, evaluates the feasibility of maintaining sufficient liquid
+resources at a minimum in all relevant currencies to effect same-day and, where appropriate,
+intraday and multiday settlement of payment obligations with a high degree of confidence under
+a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the
+two participant families that would potentially cause the largest aggregate payment obligation for
+the covered clearing agency in extreme but plausible market conditions if the covered clearing
+agency provides CCP services and is either systemically important in multiple jurisdictions or a
+clearing agency involved in activities with a more complex risk profile",0.7184572723930689,0.68573666
+13,2,(ii) Holding qualifying liquid resources sufficient to meet the minimum liquidity resource requirement under paragraph (e)(7)(i) of this section in each relevant currency for which the covered clearing agency has payment obligations owed to clearing members.,"Proposed Rule 17Ad-22(e)(7)(ii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that it holds qualifying liquid resources sufficient to meet the minimum liquidity resource
+requirement in each relevant currency for which the covered clearing agency has payment obligations owed to clearing members.",0.7003459730382724,0.44235885
+13,11,(ii) Holding qualifying liquid resources sufficient to meet the minimum liquidity resource requirement under paragraph (e)(7)(i) of this section in each relevant currency for which the covered clearing agency has payment obligations owed to clearing members.,"Finally, proposed Rule 17Ad-22(e)(7)(x) would require a covered clearing agency to
+establish, implement, maintain and enforce written policies and procedures reasonably designed
+to ensure that it, at least once a year, evaluates the feasibility of maintaining sufficient liquid
+resources at a minimum in all relevant currencies to effect same-day and, where appropriate,
+intraday and multiday settlement of payment obligations with a high degree of confidence under
+a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the
+two participant families that would potentially cause the largest aggregate payment obligation for
+the covered clearing agency in extreme but plausible market conditions if the covered clearing
+agency provides CCP services and is either systemically important in multiple jurisdictions or a
+clearing agency involved in activities with a more complex risk profile",0.2530557390210009,0.6722827
+14,3,"(iii) Using the access to accounts and services at a Federal Reserve Bank, pursuant to Section 806(a) of the Payment, Clearing, and Settlement Supervision Act of 2010 (12 USC 5465(a)), or other relevant central bank, when available and where determined to be practical by the board of directors of the covered clearing agency, to enhance its management of liquidity risk.","The Commission also proposed Rule 17Ad-22(a)(15)
+to define “qualifying liquid resources,” which would include three types of assets, in each
+relevant currency:
+• cash held either at the central bank of issue or at creditworthy commercial banks;
+• assets that are readily available and convertible into cash through either:
+o prearranged funding arrangements without material adverse change limitations,
+such as committed lines of credit, foreign exchange swaps, and repurchase
+agreements, or
+o other prearranged funding arrangements determined to be highly reliable even in
+extreme but plausible market conditions by the board of directors of the covered
+clearing agency following a review conducted for this purpose not less than
+annually; and
+• other assets that are readily available and eligible for pledging to (or conducting other
+appropriate forms of transactions with) a relevant central bank, if the covered clearing
+agency has access to routine credit at such central bank.",0.3290348424749289,0.5316653
+14,4,"(iii) Using the access to accounts and services at a Federal Reserve Bank, pursuant to Section 806(a) of the Payment, Clearing, and Settlement Supervision Act of 2010 (12 USC 5465(a)), or other relevant central bank, when available and where determined to be practical by the board of directors of the covered clearing agency, to enhance its management of liquidity risk.","Proposed Rule 17Ad-22(e)(7)(iii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it uses accounts and services at a Federal Reserve Bank, pursuant to Section 806(a) of the
+Clearing Supervision Act,344 or other relevant central bank, when available and wheredetermined to be practical by the board of directors of the covered clearing agency, to enhance
+its management of liquidity risk.",0.7421697947866209,0.4969872
+14,7,"(iii) Using the access to accounts and services at a Federal Reserve Bank, pursuant to Section 806(a) of the Payment, Clearing, and Settlement Supervision Act of 2010 (12 USC 5465(a)), or other relevant central bank, when available and where determined to be practical by the board of directors of the covered clearing agency, to enhance its management of liquidity risk.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.3148317450455172,0.42056996
+14,11,"(iii) Using the access to accounts and services at a Federal Reserve Bank, pursuant to Section 806(a) of the Payment, Clearing, and Settlement Supervision Act of 2010 (12 USC 5465(a)), or other relevant central bank, when available and where determined to be practical by the board of directors of the covered clearing agency, to enhance its management of liquidity risk.","Finally, proposed Rule 17Ad-22(e)(7)(x) would require a covered clearing agency to
+establish, implement, maintain and enforce written policies and procedures reasonably designed
+to ensure that it, at least once a year, evaluates the feasibility of maintaining sufficient liquid
+resources at a minimum in all relevant currencies to effect same-day and, where appropriate,
+intraday and multiday settlement of payment obligations with a high degree of confidence under
+a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the
+two participant families that would potentially cause the largest aggregate payment obligation for
+the covered clearing agency in extreme but plausible market conditions if the covered clearing
+agency provides CCP services and is either systemically important in multiple jurisdictions or a
+clearing agency involved in activities with a more complex risk profile",0.2789860064366783,0.5706469
+15,2,"(iv) Undertaking due diligence to confirm that it has a reasonable basis to believe each of its liquidity providers, whether or not such liquidity provider is a clearing member, has:
+(A) Sufficient information to understand and manage the liquidity provider’s liquidity risks; and
+ (B) The capacity to perform as required under its commitments to provide liquidity to the covered clearing agency.","Proposed Rule 17Ad-22(e)(7)(ii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that it holds qualifying liquid resources sufficient to meet the minimum liquidity resource
+requirement in each relevant currency for which the covered clearing agency has payment obligations owed to clearing members.",0.2742881311811023,0.52033013
+15,5,"(iv) Undertaking due diligence to confirm that it has a reasonable basis to believe each of its liquidity providers, whether or not such liquidity provider is a clearing member, has:
+(A) Sufficient information to understand and manage the liquidity provider’s liquidity risks; and
+ (B) The capacity to perform as required under its commitments to provide liquidity to the covered clearing agency.","Proposed Rule 17Ad-22(e)(7)(iv) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it undertakes due diligence to confirm that it has a reasonable basis to believe each of its liquidity
+providers, whether or not such liquidity provider is a clearing member, has sufficient information
+to understand and manage the liquidity provider’s liquidity risks, and the capacity to perform as
+required under its commitments to provide liquidity.",0.8950948986831401,0.50448835
+15,6,"(iv) Undertaking due diligence to confirm that it has a reasonable basis to believe each of its liquidity providers, whether or not such liquidity provider is a clearing member, has:
+(A) Sufficient information to understand and manage the liquidity provider’s liquidity risks; and
+ (B) The capacity to perform as required under its commitments to provide liquidity to the covered clearing agency.","Proposed Rule 17Ad-22(e)(7)(v) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that the covered clearing agency maintains and, on at least an annual basis, tests with each
+liquidity provider, to the extent practicable, its procedures and operational capacity for accessing
+each type of relevant liquidity resource.",0.32088815310355556,0.54788744
+16,5,"(v) Maintaining and testing with each liquidity provider, to the extent practicable, the covered clearing agency’s procedures and operational capacity for accessing each type of relevant liquidity resource under paragraph (e)(7)(i) of this section at least annually.","Proposed Rule 17Ad-22(e)(7)(iv) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it undertakes due diligence to confirm that it has a reasonable basis to believe each of its liquidity
+providers, whether or not such liquidity provider is a clearing member, has sufficient information
+to understand and manage the liquidity provider’s liquidity risks, and the capacity to perform as
+required under its commitments to provide liquidity.",0.2772892545513643,0.46957526
+16,6,"(v) Maintaining and testing with each liquidity provider, to the extent practicable, the covered clearing agency’s procedures and operational capacity for accessing each type of relevant liquidity resource under paragraph (e)(7)(i) of this section at least annually.","Proposed Rule 17Ad-22(e)(7)(v) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that the covered clearing agency maintains and, on at least an annual basis, tests with each
+liquidity provider, to the extent practicable, its procedures and operational capacity for accessing
+each type of relevant liquidity resource.",0.6415420145743006,0.49573165
+16,7,"(v) Maintaining and testing with each liquidity provider, to the extent practicable, the covered clearing agency’s procedures and operational capacity for accessing each type of relevant liquidity resource under paragraph (e)(7)(i) of this section at least annually.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.29650639564964804,0.49658683
+16,11,"(v) Maintaining and testing with each liquidity provider, to the extent practicable, the covered clearing agency’s procedures and operational capacity for accessing each type of relevant liquidity resource under paragraph (e)(7)(i) of this section at least annually.","Finally, proposed Rule 17Ad-22(e)(7)(x) would require a covered clearing agency to
+establish, implement, maintain and enforce written policies and procedures reasonably designed
+to ensure that it, at least once a year, evaluates the feasibility of maintaining sufficient liquid
+resources at a minimum in all relevant currencies to effect same-day and, where appropriate,
+intraday and multiday settlement of payment obligations with a high degree of confidence under
+a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the
+two participant families that would potentially cause the largest aggregate payment obligation for
+the covered clearing agency in extreme but plausible market conditions if the covered clearing
+agency provides CCP services and is either systemically important in multiple jurisdictions or a
+clearing agency involved in activities with a more complex risk profile",0.26166122530267283,0.7124209
+17,0,"(vi) Determining the amount and regularly testing the sufficiency of the liquid resources held for purposes of meeting the minimum liquid resource requirement under paragraph (e)(7)(i) of this section by, at a minimum:
+(A) Conducting stress testing of its liquidity resources at least once each day using standard and predetermined parameters and assumptions;
+(B) Conducting a comprehensive analysis on at least a monthly basis of the existing stress testing scenarios, models, and underlying parameters and assumptions used in evaluating liquidity needs and resources, and considering modifications to ensure they are appropriate for determining the clearing agency’s identified liquidity needs and resources in light of current and evolving market conditions;
+(C) Conducting a comprehensive analysis of the scenarios, models, and underlying parameters and assumptions used in evaluating liquidity needs and resources more frequently than monthly when the products cleared or markets served display high volatility or become less liquid, when the size or concentration of positions held by the clearing agency’s participants increases significantly, or in other appropriate circumstances described in such policies and procedures; and
+(D) Reporting the results of its analyses under paragraphs (e)(7)(vi)(B) and (C) of this section to appropriate decision makers at the covered clearing agency, including but not limited to, its risk management committee or board of directors, and using these results to evaluate the adequacy of and adjust its liquidity risk management methodology, model parameters, and any other relevant aspects of its liquidity risk management framework.","As proposed, Rule 17Ad-22(e)(7) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to
+effectively measure, monitor, and manage the liquidity risk that arises in or is borne by it, by
+meeting, at a minimum, the ten requirements specified in the rule.",0.2647703789942706,0.4916389
+17,1,"(vi) Determining the amount and regularly testing the sufficiency of the liquid resources held for purposes of meeting the minimum liquid resource requirement under paragraph (e)(7)(i) of this section by, at a minimum:
+(A) Conducting stress testing of its liquidity resources at least once each day using standard and predetermined parameters and assumptions;
+(B) Conducting a comprehensive analysis on at least a monthly basis of the existing stress testing scenarios, models, and underlying parameters and assumptions used in evaluating liquidity needs and resources, and considering modifications to ensure they are appropriate for determining the clearing agency’s identified liquidity needs and resources in light of current and evolving market conditions;
+(C) Conducting a comprehensive analysis of the scenarios, models, and underlying parameters and assumptions used in evaluating liquidity needs and resources more frequently than monthly when the products cleared or markets served display high volatility or become less liquid, when the size or concentration of positions held by the clearing agency’s participants increases significantly, or in other appropriate circumstances described in such policies and procedures; and
+(D) Reporting the results of its analyses under paragraphs (e)(7)(vi)(B) and (C) of this section to appropriate decision makers at the covered clearing agency, including but not limited to, its risk management committee or board of directors, and using these results to evaluate the adequacy of and adjust its liquidity risk management methodology, model parameters, and any other relevant aspects of its liquidity risk management framework.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.29256873194496014,0.4680042
+17,3,"(vi) Determining the amount and regularly testing the sufficiency of the liquid resources held for purposes of meeting the minimum liquid resource requirement under paragraph (e)(7)(i) of this section by, at a minimum:
+(A) Conducting stress testing of its liquidity resources at least once each day using standard and predetermined parameters and assumptions;
+(B) Conducting a comprehensive analysis on at least a monthly basis of the existing stress testing scenarios, models, and underlying parameters and assumptions used in evaluating liquidity needs and resources, and considering modifications to ensure they are appropriate for determining the clearing agency’s identified liquidity needs and resources in light of current and evolving market conditions;
+(C) Conducting a comprehensive analysis of the scenarios, models, and underlying parameters and assumptions used in evaluating liquidity needs and resources more frequently than monthly when the products cleared or markets served display high volatility or become less liquid, when the size or concentration of positions held by the clearing agency’s participants increases significantly, or in other appropriate circumstances described in such policies and procedures; and
+(D) Reporting the results of its analyses under paragraphs (e)(7)(vi)(B) and (C) of this section to appropriate decision makers at the covered clearing agency, including but not limited to, its risk management committee or board of directors, and using these results to evaluate the adequacy of and adjust its liquidity risk management methodology, model parameters, and any other relevant aspects of its liquidity risk management framework.","The Commission also proposed Rule 17Ad-22(a)(15)
+to define “qualifying liquid resources,” which would include three types of assets, in each
+relevant currency:
+• cash held either at the central bank of issue or at creditworthy commercial banks;
+• assets that are readily available and convertible into cash through either:
+o prearranged funding arrangements without material adverse change limitations,
+such as committed lines of credit, foreign exchange swaps, and repurchase
+agreements, or
+o other prearranged funding arrangements determined to be highly reliable even in
+extreme but plausible market conditions by the board of directors of the covered
+clearing agency following a review conducted for this purpose not less than
+annually; and
+• other assets that are readily available and eligible for pledging to (or conducting other
+appropriate forms of transactions with) a relevant central bank, if the covered clearing
+agency has access to routine credit at such central bank.",0.28208141833800554,0.40149236
+17,4,"(vi) Determining the amount and regularly testing the sufficiency of the liquid resources held for purposes of meeting the minimum liquid resource requirement under paragraph (e)(7)(i) of this section by, at a minimum:
+(A) Conducting stress testing of its liquidity resources at least once each day using standard and predetermined parameters and assumptions;
+(B) Conducting a comprehensive analysis on at least a monthly basis of the existing stress testing scenarios, models, and underlying parameters and assumptions used in evaluating liquidity needs and resources, and considering modifications to ensure they are appropriate for determining the clearing agency’s identified liquidity needs and resources in light of current and evolving market conditions;
+(C) Conducting a comprehensive analysis of the scenarios, models, and underlying parameters and assumptions used in evaluating liquidity needs and resources more frequently than monthly when the products cleared or markets served display high volatility or become less liquid, when the size or concentration of positions held by the clearing agency’s participants increases significantly, or in other appropriate circumstances described in such policies and procedures; and
+(D) Reporting the results of its analyses under paragraphs (e)(7)(vi)(B) and (C) of this section to appropriate decision makers at the covered clearing agency, including but not limited to, its risk management committee or board of directors, and using these results to evaluate the adequacy of and adjust its liquidity risk management methodology, model parameters, and any other relevant aspects of its liquidity risk management framework.","Proposed Rule 17Ad-22(e)(7)(iii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+it uses accounts and services at a Federal Reserve Bank, pursuant to Section 806(a) of the
+Clearing Supervision Act,344 or other relevant central bank, when available and wheredetermined to be practical by the board of directors of the covered clearing agency, to enhance
+its management of liquidity risk.",0.33922113099821777,0.5331589
+17,6,"(vi) Determining the amount and regularly testing the sufficiency of the liquid resources held for purposes of meeting the minimum liquid resource requirement under paragraph (e)(7)(i) of this section by, at a minimum:
+(A) Conducting stress testing of its liquidity resources at least once each day using standard and predetermined parameters and assumptions;
+(B) Conducting a comprehensive analysis on at least a monthly basis of the existing stress testing scenarios, models, and underlying parameters and assumptions used in evaluating liquidity needs and resources, and considering modifications to ensure they are appropriate for determining the clearing agency’s identified liquidity needs and resources in light of current and evolving market conditions;
+(C) Conducting a comprehensive analysis of the scenarios, models, and underlying parameters and assumptions used in evaluating liquidity needs and resources more frequently than monthly when the products cleared or markets served display high volatility or become less liquid, when the size or concentration of positions held by the clearing agency’s participants increases significantly, or in other appropriate circumstances described in such policies and procedures; and
+(D) Reporting the results of its analyses under paragraphs (e)(7)(vi)(B) and (C) of this section to appropriate decision makers at the covered clearing agency, including but not limited to, its risk management committee or board of directors, and using these results to evaluate the adequacy of and adjust its liquidity risk management methodology, model parameters, and any other relevant aspects of its liquidity risk management framework.","Proposed Rule 17Ad-22(e)(7)(v) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that the covered clearing agency maintains and, on at least an annual basis, tests with each
+liquidity provider, to the extent practicable, its procedures and operational capacity for accessing
+each type of relevant liquidity resource.",0.2889302478877511,0.45936286
+17,7,"(vi) Determining the amount and regularly testing the sufficiency of the liquid resources held for purposes of meeting the minimum liquid resource requirement under paragraph (e)(7)(i) of this section by, at a minimum:
+(A) Conducting stress testing of its liquidity resources at least once each day using standard and predetermined parameters and assumptions;
+(B) Conducting a comprehensive analysis on at least a monthly basis of the existing stress testing scenarios, models, and underlying parameters and assumptions used in evaluating liquidity needs and resources, and considering modifications to ensure they are appropriate for determining the clearing agency’s identified liquidity needs and resources in light of current and evolving market conditions;
+(C) Conducting a comprehensive analysis of the scenarios, models, and underlying parameters and assumptions used in evaluating liquidity needs and resources more frequently than monthly when the products cleared or markets served display high volatility or become less liquid, when the size or concentration of positions held by the clearing agency’s participants increases significantly, or in other appropriate circumstances described in such policies and procedures; and
+(D) Reporting the results of its analyses under paragraphs (e)(7)(vi)(B) and (C) of this section to appropriate decision makers at the covered clearing agency, including but not limited to, its risk management committee or board of directors, and using these results to evaluate the adequacy of and adjust its liquidity risk management methodology, model parameters, and any other relevant aspects of its liquidity risk management framework.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.8560696054052122,0.48903498
+17,11,"(vi) Determining the amount and regularly testing the sufficiency of the liquid resources held for purposes of meeting the minimum liquid resource requirement under paragraph (e)(7)(i) of this section by, at a minimum:
+(A) Conducting stress testing of its liquidity resources at least once each day using standard and predetermined parameters and assumptions;
+(B) Conducting a comprehensive analysis on at least a monthly basis of the existing stress testing scenarios, models, and underlying parameters and assumptions used in evaluating liquidity needs and resources, and considering modifications to ensure they are appropriate for determining the clearing agency’s identified liquidity needs and resources in light of current and evolving market conditions;
+(C) Conducting a comprehensive analysis of the scenarios, models, and underlying parameters and assumptions used in evaluating liquidity needs and resources more frequently than monthly when the products cleared or markets served display high volatility or become less liquid, when the size or concentration of positions held by the clearing agency’s participants increases significantly, or in other appropriate circumstances described in such policies and procedures; and
+(D) Reporting the results of its analyses under paragraphs (e)(7)(vi)(B) and (C) of this section to appropriate decision makers at the covered clearing agency, including but not limited to, its risk management committee or board of directors, and using these results to evaluate the adequacy of and adjust its liquidity risk management methodology, model parameters, and any other relevant aspects of its liquidity risk management framework.","Finally, proposed Rule 17Ad-22(e)(7)(x) would require a covered clearing agency to
+establish, implement, maintain and enforce written policies and procedures reasonably designed
+to ensure that it, at least once a year, evaluates the feasibility of maintaining sufficient liquid
+resources at a minimum in all relevant currencies to effect same-day and, where appropriate,
+intraday and multiday settlement of payment obligations with a high degree of confidence under
+a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the
+two participant families that would potentially cause the largest aggregate payment obligation for
+the covered clearing agency in extreme but plausible market conditions if the covered clearing
+agency provides CCP services and is either systemically important in multiple jurisdictions or a
+clearing agency involved in activities with a more complex risk profile",0.3625358329313829,0.53548485
+18,8,(vii) Performing a model validation of its liquidity risk models not less than annually or more frequently as may be contemplated by the covered clearing agency’s risk managementframework established pursuant to paragraph (e)(3) of this section.,"Proposed Rule 17Ad-22(e)(7)(vii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+performing an annual or more frequent conforming model validation of its liquidity risk
+models.",0.382187766058604,0.43778464
+19,1,"(viii) Addressing foreseeable liquidity shortfalls that would not be covered by the covered clearing agency’s liquid resources and seek to avoid unwinding, revoking, or delaying the same day settlement of payment obligations.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.28770228044540025,0.44452384
+19,9,"(viii) Addressing foreseeable liquidity shortfalls that would not be covered by the covered clearing agency’s liquid resources and seek to avoid unwinding, revoking, or delaying the same day settlement of payment obligations.","Proposed Rule 17Ad-22(e)(7)(viii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to address
+foreseeable liquidity shortfalls that would not be covered by its liquid resources and seek to
+avoid unwinding, revoking, or delaying the same-day settlement of payment obligations.",0.7713877834983276,0.27129528
+19,11,"(viii) Addressing foreseeable liquidity shortfalls that would not be covered by the covered clearing agency’s liquid resources and seek to avoid unwinding, revoking, or delaying the same day settlement of payment obligations.","Finally, proposed Rule 17Ad-22(e)(7)(x) would require a covered clearing agency to
+establish, implement, maintain and enforce written policies and procedures reasonably designed
+to ensure that it, at least once a year, evaluates the feasibility of maintaining sufficient liquid
+resources at a minimum in all relevant currencies to effect same-day and, where appropriate,
+intraday and multiday settlement of payment obligations with a high degree of confidence under
+a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the
+two participant families that would potentially cause the largest aggregate payment obligation for
+the covered clearing agency in extreme but plausible market conditions if the covered clearing
+agency provides CCP services and is either systemically important in multiple jurisdictions or a
+clearing agency involved in activities with a more complex risk profile",0.30172950732062526,0.56930095
+20,10,(ix) Describing the covered clearing agency’s process to replenish any liquid resources that the clearing agency may employ during a stress event.,"Proposed Rule 17Ad-22(e)(7)(ix) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to describe
+its process for replenishing any liquid resources that it may employ during a stress event.",0.5725712327253295,0.39535505
+21,1,"(x) Undertaking an analysis at least once a year that evaluates the feasibility of maintaining sufficient liquid resources at a minimum in all relevant currencies to effect same- day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the two participant families that would potentially cause the largest aggregate payment obligation for the covered clearing agency in extreme but plausible market conditions if the covered clearing agency provides central counterparty services and is either systemically important in multiple jurisdictions or a clearing agency involved in activities with a more complex risk profile.","Proposed Rule 17Ad-22(e)(7)(i) would require that a covered clearing agency’s policies
+and procedures be reasonably designed to ensure that it maintains sufficient liquid resources in
+all relevant currencies to effect same-day and, where appropriate, intraday and multiday
+settlement of payment obligations with a high degree of confidence under a wide range of
+potential stress scenarios that includes the default of the participant family that would generate
+the largest aggregate payment obligation for it in extreme but plausible market conditions.",0.6012234377117429,0.5180852
+21,2,"(x) Undertaking an analysis at least once a year that evaluates the feasibility of maintaining sufficient liquid resources at a minimum in all relevant currencies to effect same- day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the two participant families that would potentially cause the largest aggregate payment obligation for the covered clearing agency in extreme but plausible market conditions if the covered clearing agency provides central counterparty services and is either systemically important in multiple jurisdictions or a clearing agency involved in activities with a more complex risk profile.","Proposed Rule 17Ad-22(e)(7)(ii) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to ensure
+that it holds qualifying liquid resources sufficient to meet the minimum liquidity resource
+requirement in each relevant currency for which the covered clearing agency has payment obligations owed to clearing members.",0.2600938405220954,0.5249671
+21,3,"(x) Undertaking an analysis at least once a year that evaluates the feasibility of maintaining sufficient liquid resources at a minimum in all relevant currencies to effect same- day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the two participant families that would potentially cause the largest aggregate payment obligation for the covered clearing agency in extreme but plausible market conditions if the covered clearing agency provides central counterparty services and is either systemically important in multiple jurisdictions or a clearing agency involved in activities with a more complex risk profile.","The Commission also proposed Rule 17Ad-22(a)(15)
+to define “qualifying liquid resources,” which would include three types of assets, in each
+relevant currency:
+• cash held either at the central bank of issue or at creditworthy commercial banks;
+• assets that are readily available and convertible into cash through either:
+o prearranged funding arrangements without material adverse change limitations,
+such as committed lines of credit, foreign exchange swaps, and repurchase
+agreements, or
+o other prearranged funding arrangements determined to be highly reliable even in
+extreme but plausible market conditions by the board of directors of the covered
+clearing agency following a review conducted for this purpose not less than
+annually; and
+• other assets that are readily available and eligible for pledging to (or conducting other
+appropriate forms of transactions with) a relevant central bank, if the covered clearing
+agency has access to routine credit at such central bank.",0.2776653133942752,0.69333243
+21,7,"(x) Undertaking an analysis at least once a year that evaluates the feasibility of maintaining sufficient liquid resources at a minimum in all relevant currencies to effect same- day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the two participant families that would potentially cause the largest aggregate payment obligation for the covered clearing agency in extreme but plausible market conditions if the covered clearing agency provides central counterparty services and is either systemically important in multiple jurisdictions or a clearing agency involved in activities with a more complex risk profile.","Proposed Rule 17Ad-22(e)(7)(vi)(A) through (C) would require a covered clearing
+agency to establish, implement, maintain and enforce written policies and procedures reasonably
+designed to determine the amount and regularly test the sufficiency of the liquid resources held
+for purposes of meeting the minimum liquid resource requirement of proposed Rule 17Ad-
+22(e)(7)(i) by (A) conducting a stress test of its liquidity resources at least once each day using
+standard and predetermined parameters and assumptions; (B) conducting a comprehensive
+analysis of the existing stress testing scenarios, models, and underlying parameters and
+assumptions used in evaluating liquidity needs and resources, and considering modifications to
+ensure they are appropriate for determining the covered clearing agency’s identified liquidity
+needs and resources in light of current and evolving market conditions at least once each month;
+and (C) conducting a comprehensive analysis of the existing stress testing scenarios, models, and
+underlying parameters and assumptions used in evaluating liquidity needs and resources more
+frequently when products cleared or markets served display high volatility or become less liquid,
+when the size or concentration of positions held by participants increases significantly, or in
+other circumstances described in the covered clearing agency’s policies and procedures;
+Proposed Rule 17Ad-22(e)(7)(vi)(D) would also require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to result in
+reporting the results of the analyses performed under proposed Rule 17Ad-22(e)(7)(vi)(B) and
+(C) to appropriate decision makers, including the risk management committee or board of
+directors, at the covered clearing agency for use in evaluating the adequacy of and adjusting its
+liquidity risk management framework.",0.3593871450772773,0.46121573
+21,11,"(x) Undertaking an analysis at least once a year that evaluates the feasibility of maintaining sufficient liquid resources at a minimum in all relevant currencies to effect same- day and, where appropriate, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the two participant families that would potentially cause the largest aggregate payment obligation for the covered clearing agency in extreme but plausible market conditions if the covered clearing agency provides central counterparty services and is either systemically important in multiple jurisdictions or a clearing agency involved in activities with a more complex risk profile.","Finally, proposed Rule 17Ad-22(e)(7)(x) would require a covered clearing agency to
+establish, implement, maintain and enforce written policies and procedures reasonably designed
+to ensure that it, at least once a year, evaluates the feasibility of maintaining sufficient liquid
+resources at a minimum in all relevant currencies to effect same-day and, where appropriate,
+intraday and multiday settlement of payment obligations with a high degree of confidence under
+a wide range of foreseeable stress scenarios that includes, but is not limited to, the default of the
+two participant families that would potentially cause the largest aggregate payment obligation for
+the covered clearing agency in extreme but plausible market conditions if the covered clearing
+agency provides CCP services and is either systemically important in multiple jurisdictions or a
+clearing agency involved in activities with a more complex risk profile",0.9049518961519843,0.73772365
