@@ -1,0 +1,60 @@
+As proposed, Rule 17Ad-22(e)(19) would require a covered clearing agency to establish,
+implement, maintain and enforce written policies and procedures reasonably designed to
+identify, monitor, and manage the material risks to the covered clearing agency arising from
+arrangements in which firms that are indirect participants in the covered clearing agency rely on
+the services provided by direct participants in the covered clearing agency to access the covered
+clearing agency’s payment, clearing, or settlement facilities (hereinafter “tiered participation
+arrangements”). In addition, proposed Rule 17Ad-22(e)(19) would require that a covered
+clearing agency establish, implement, maintain and enforce written policies and procedures reasonably designed to regularly review the material risks to the covered clearing agency arising
+from such tiered participation arrangements.
+
+The Commission is providing the following guidance that a covered clearing
+agency generally should consider in establishing and maintaining policies and procedures that
+address tiered participation arrangements:
+• whether a covered clearing agency ensures that its rules, procedures, and agreements
+allow it to gather sufficient information about indirect participation to identify, monitor, 
+
+
+• whether a covered clearing agency ensures that its rules, procedures, and agreements
+allow it to gather sufficient information about indirect participation to identify, monitor,
+498 See supra notes 491, 494, and accompanying text.
+
+and manage any material risks to the covered clearing agency arising from such tiered
+participation arrangements;
+• whether it identifies material dependencies between direct and indirect participants that
+might affect the covered clearing agency;
+• whether it identifies indirect participants responsible for a significant proportion of
+transactions processed by the covered clearing agency and indirect participants whose
+transaction volumes or values are large relative to the capacity of the direct participants
+through which they access the covered clearing agency to manage the risks arising from
+these transactions; and
+• whether it regularly reviews risks arising from tiered participation arrangements and
+takes mitigation action when appropriate.
+
+
+In addition to the guidance above, the Commission notes that, when addressing its compliance
+with Rule 17Ad-22(e)(19), a covered clearing agency could consider whether its rules, policies,
+procedures, and agreements with direct participants allow it to gather basic information about
+indirect participants to identify, monitor, and manage any material risks to the covered clearing
+agency arising from such tiered participation arrangements. This information should help enable
+the covered clearing agency to identify (i) the proportion of activity that direct participants
+conduct on behalf of indirect participants, (ii) direct participants that act on behalf of a material
+number of indirect participants, (iii) indirect participants with significant volumes or values of
+transactions in the system, and (iv) indirect participants whose transaction volumes or values are
+large relative to those of the direct participants through which they access the covered clearing
+agency. In this vein, a covered clearing agency could consider an indirect participant’s status as
+a designated market maker or supplemental liquidity provider in identifying material risks to the
+219
+covered clearing agency.
+
+ A covered clearing agency could also consider different trading
+strategies or changes in trading strategies used by indirect participants in identifying, monitoring,
+and managing material risks to the covered clearing agency.
+
+The Commission also notes that Rule 17Ad-22(e)(19) is intended to promote the ongoing
+management of risks associated with tiered participation arrangements stemming from the
+dependencies and risk exposures that such arrangements can create; However, because proposed
+Rule 17Ad-22(e)(19) only addresses the situation where indirect participants in the covered
+clearing agency rely on direct participants, the Commission notes that Rule 17Ad-22(e)(19)
+would not apply in the circumstance where a covered clearing agency providing CSD services
+has members that are broker-dealers maintaining accounts for retail customers

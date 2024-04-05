@@ -1,0 +1,9 @@
+Principle 19: Tiered participation arrangements
+An FMI should identify, monitor, and manage the material risks to the FMI arising from tiered participation arrangements.
+Key Consideration 1: An FMI should ensure that its rules, procedures, and agreements allow it to gather basic information about indirect participation in order to identify, monitor, and manage any material risks to the FMI arising from such tiered participation arrangements.
+Key Consideration 2: An FMI should identify material dependencies between direct and indirect participants that might affect the FMI.
+Key Consideration 3: An FMI should identify indirect participants responsible for a significant proportion of transactions processed by the FMI and indirect participants whose transaction volumes or values are large relative to the capacity of the direct participants through which they access the FMI in order to manage the risks arising from these transactions.
+Key Consideration 4: An FMI should regularly review risks arising from tiered participation arrangements and should take mitigating action when appropriate.
+
+Each covered clearing agency shall establish, implement, maintain and enforce written policies and procedures reasonably designed to, as applicable:
+(19) Identify, monitor, and manage the material risks to the covered clearing agency arising from arrangements in which firms that are indirect participants in the covered clearing agency rely on the services provided by direct participants to access the covered clearing agency’s payment, clearing, or settlement facilities.
