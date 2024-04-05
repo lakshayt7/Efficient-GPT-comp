@@ -22,9 +22,9 @@ def read_text_from_file(file_path):
         text = file.read()
     return text
 
-#NOTE - vectorized using FAISS - can use other vectorization library 
+#NOTE - vectorized using FAISS - can use other vectorization library like porcupine
 def cosine_similarity_vectorized(X, Y, type):
-    #normalize to make inner product equivalent to dot product
+    
 
     if type == 'tf':
         X = X.toarray().astype(np.float32)
@@ -39,6 +39,7 @@ def cosine_similarity_vectorized(X, Y, type):
     if len(Y.shape) == 1:
         Y = Y.reshape(1, -1)
 
+    #normalize to make inner product equivalent to dot product
     faiss.normalize_L2(X)
     faiss.normalize_L2(Y)
     dimension = Y.shape[1]  # Dimensionality of the vectors

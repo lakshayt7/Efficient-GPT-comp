@@ -58,7 +58,7 @@ final_o =  "\n\n".join(prints)
 
 #now given the individual comparisons generate the final comparison
 fprompt= '''Given the text below which list simiarities and differences between different rules. Take all the similarities and create a five point summary of similarities with references to the rule they come from.
- Now go over the differences section carefully and create a five point summary of differences between them along with a reference to the key consideration they come from.
+ Now go over the differences section carefully and create a five point summary of differences between them along with a reference to the key consideration they come from. Refer to text 1 as NSCC and text 2 as SEC.
 '''
 
 final_prompt = f"{fprompt}\n\n{final_o}"
@@ -70,7 +70,7 @@ completion = client.chat.completions.create(
             {"role": "user", "content": final_prompt}
         ]
     )
-print(completion[0].message)
+print(completion.choices[0].message.content)
 
 #save csv
 gpt_responses.to_csv(args.ofile, index=False)
